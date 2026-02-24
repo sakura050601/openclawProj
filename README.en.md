@@ -84,6 +84,8 @@ Fill `runbooks/TASK-001.md` with:
 | 2026-02-24 12:23:57 +0900 | Add Chinese README with OpenClaw execution records | `591e309` |
 | 2026-02-24 12:26:18 +0900 | Add English README and establish append-only commit logging rule | `47aa71a` |
 
+| 2026-02-24 12:26:34 +0900 | Fix commit-log table and fill missing commit id for previous entry | `7f89185` |
+
 ## Next Suggestions
 
 - Save execution outputs in `logs/` using date-based filenames.

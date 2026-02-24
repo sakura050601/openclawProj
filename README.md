@@ -85,6 +85,8 @@ openclawProj/
 | 2026-02-24 12:23:57 +0900 | 新增中文 README，记录 OpenClaw 执行步骤 | `591e309` |
 | 2026-02-24 12:26:18 +0900 | 新增英文 README 版本，并建立持续追加的提交记录规则 | `47aa71a` |
 
+| 2026-02-24 12:26:34 +0900 | 修正提交记录表，补全上一提交的 commit id | `7f89185` |
+
 ## English version
 
 - See `README.en.md` for the English documentation and change log.
