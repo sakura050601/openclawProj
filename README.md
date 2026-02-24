@@ -75,6 +75,21 @@ openclawProj/
   - 修正措施
   - 验证结果与结论
 
+## 变更提交记录（持续追加）
+
+> 规则：每次修改并提交后，都在本节追加一条记录（时间、事件、提交）。
+
+| 时间（Asia/Tokyo） | 事件 | 提交 |
+|---|---|---|
+| 2026-02-24 12:17:51 +0900 | 初始化项目骨架（.vscode/runbooks/logs/scripts） | `3a9ed34` |
+| 2026-02-24 12:23:57 +0900 | 新增中文 README，记录 OpenClaw 执行步骤 | `591e309` |
+
+| 2026-02-24 12:26:18 +0900 | 新增英文 README 版本，并建立持续追加的提交记录规则 |  |
+
+## English version
+
+- See `README.en.md` for the English documentation and change log.
+
 ## 后续建议
 
 - 将每次执行日志输出到 `logs/`（按日期命名）。
